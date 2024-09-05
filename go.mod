@@ -1,3 +1,3 @@
-module snippetbox.miyoyo.me
+module github.com/rmiyoyo/snippetbox
 
 go 1.22.2
